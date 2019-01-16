@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tgl_berangkat: 2019-01-16
+  jam_berangkat: 2019-01-16 18:30:38
+  status_bangku: MyString
+  belongs_to: 
+  belongs_to: 
+
+two:
+  tgl_berangkat: 2019-01-16
+  jam_berangkat: 2019-01-16 18:30:38
+  status_bangku: MyString
+  belongs_to: 
+  belongs_to: 
